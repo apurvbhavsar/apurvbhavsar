@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 👋 Hi, I’m Apurv Bhavsar<br>
 - 🌱 I’m currently working on Laravel, NodeJS, Vue JS, React JS, Next JS, and Nuxt JS
-- 📫 How to reach me <a href="mailto:apurv.bhavsar.09@gmail.com">Email Me</a> <br>    or <br>    DM me on <a href="https://twitter.com/_coder_14" target="_blank"> Twitter</a> 
+- 📫 How to reach me <a href="mailto:apurv.bhavsar.09@gmail.com">Email Me</a> or DM me on <a href="https://twitter.com/_coder_14" target="_blank"> Twitter</a> 
 
 
 ## 🌐 Socials:
